@@ -2,13 +2,14 @@
 
 > **Read-only archive of released versions of xiaogan80/flarum-hot-board.** Not for installation: use [Packagist](https://packagist.org/packages/xiaogan80/flarum-hot-board) or the [upstream repository](https://github.com/xiaogan80/acme-flarum-hot-board).
 
-**0** versions archived · Latest: [`v1.2.1`](https://github.com/flarchive/xiaogan80-acme-flarum-hot-board/tree/archive/v1.2.1) · License: `MIT` · Flarum: `^2.0.0`
+**2** versions archived · Latest: [`v1.2.1`](https://github.com/flarchive/xiaogan80-acme-flarum-hot-board/tree/archive/v1.2.1) · License: `MIT` · Flarum: `^2.0.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `v1.2.0` | 2026-10-29 | `^2.0.0` | [Browse](https://github.com/flarchive/xiaogan80-acme-flarum-hot-board/tree/archive/v1.2.0) |
+| `v1.2.1` | 2026-10-29 | `^2.0.0` | [Browse](https://github.com/flarchive/xiaogan80-acme-flarum-hot-board/tree/archive/v1.2.1) |
 
 Catalog entry: [packages/xiaogan80-acme-flarum-hot-board.json](https://github.com/flarchive/archive-index/blob/main/packages/xiaogan80-acme-flarum-hot-board.json)
 
